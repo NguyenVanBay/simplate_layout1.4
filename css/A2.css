@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+    width: 750px;
+    margin: auto;
+}
+
+section.row {
+    display: flex;
+    width:  750px;
+    height: 255px;
+}
+
+section.row img {
+    flex-grow:  1;
+    padding: 30px;
+    background: #9E9E9E;
+    margin: 5px;
+    border-radius:  5px;
+}
+
+header h3 {
+    text-align:  center;
+    font-size:  30px;
+    margin-top:  34px;
+}
