@@ -16,7 +16,7 @@ Thực hiện bởi [https://github.com/NguyenVanBay]
 - https://nguyenvanbay.github.io/simplate_layout1.4/contact.html
 - https://nguyenvanbay.github.io/simplate_layout1.4/success.html
 - https://nguyenvanbay.github.io/simplate_layout1.4/team.html
-- https://nguyenvanbay.github.io/simplate_layout1.4/boardmagazine.html
+- https://nguyenvanbay.github.io/simplate_layout1.4/Boardmagazine.html
 
 ## Hướng dẫn cài đặt test/sử dụng nếu có
 
