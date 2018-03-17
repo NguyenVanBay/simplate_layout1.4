@@ -10,13 +10,13 @@ Thực hiện bởi [https://github.com/NguyenVanBay]
 
 ## Liên kết
 
-- https://github.com/NguyenVanBay/simplate_layout1.4/article.html
-- https://github.com/NguyenVanBay/simplate_layout1.4/bio.html
-- https://github.com/NguyenVanBay/simplate_layout1.4/comment.html
-- https://github.com/NguyenVanBay/simplate_layout1.4/contact.html
-- https://github.com/NguyenVanBay/simplate_layout1.4/success.html
-- https://github.com/NguyenVanBay/simplate_layout1.4/team.html
-- https://github.com/NguyenVanBay/simplate_layout1.4/boardmagazine.html
+- https://nguyenvanbay.github.io/simplate_layout1.4/article.html
+- https://nguyenvanbay.github.io/simplate_layout1.4/bio.html
+- https://nguyenvanbay.github.io/simplate_layout1.4/comment.html
+- https://nguyenvanbay.github.io/simplate_layout1.4/contact.html
+- https://nguyenvanbay.github.io/simplate_layout1.4/success.html
+- https://nguyenvanbay.github.io/simplate_layout1.4/team.html
+- https://nguyenvanbay.github.io/simplate_layout1.4/boardmagazine.html
 
 ## Hướng dẫn cài đặt test/sử dụng nếu có
 
