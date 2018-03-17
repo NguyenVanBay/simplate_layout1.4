@@ -6,17 +6,15 @@
 
 Thiết kệ giao diện tương tự như 7 layout photoshop.
 
-Thực hiện bởi [Tên ứng viên](https://github.com/NguyenVanBay)
+Thực hiện bởi [https://github.com/NguyenVanBay]
 
 ## Liên kết
 
-- Liên kết đề bài nếu có
-- Liên kết học liệu nếu có
-- Liên kết bài làm online nếu có
+- 
 
 ## Hướng dẫn cài đặt test/sử dụng nếu có
 
-- Nêu một số bước ngắn gọn về sử dụng kết quả bài tập nếu có
+- Bài tập có thể áp dụng để chia layout cho giao diện.
 
 ## Kiến thức nắm được
 
