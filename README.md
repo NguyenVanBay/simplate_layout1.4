@@ -2,7 +2,7 @@
 
 ## Tiêu đề bài tập
 
- **Frontend 1.2 : 7 layout cơ bản** .
+ **Frontend 1.4 : 7 layout cơ bản** .
 
 Thiết kệ giao diện tương tự như 7 layout photoshop.
 
