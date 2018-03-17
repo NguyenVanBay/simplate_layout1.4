@@ -12,7 +12,7 @@ Thực hiện bởi [https://github.com/NguyenVanBay]
 
 - https://nguyenvanbay.github.io/simplate_layout1.4/article.html
 - https://nguyenvanbay.github.io/simplate_layout1.4/bio.html
-- https://nguyenvanbay.github.io/simplate_layout1.4/comment.html
+- https://nguyenvanbay.github.io/simplate_layout1.4/coment.html
 - https://nguyenvanbay.github.io/simplate_layout1.4/contact.html
 - https://nguyenvanbay.github.io/simplate_layout1.4/success.html
 - https://nguyenvanbay.github.io/simplate_layout1.4/team.html
