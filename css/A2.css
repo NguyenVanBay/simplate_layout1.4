@@ -9,13 +9,13 @@ body {
 
 section.row {
     display: flex;
+    flex-wrap: wrap;
     width:  750px;
     height: 255px;
 }
 
 section.row img {
-    flex-grow:  1;
-    padding: 30px;
+    padding: 50px;
     background: #9E9E9E;
     margin: 5px;
     border-radius:  5px;
