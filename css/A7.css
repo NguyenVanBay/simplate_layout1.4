@@ -19,3 +19,8 @@ h3 {
     font-size: 30px;
     text-transform: uppercase;
 }
+
+.box1 p {
+    width:  570px;
+    float: right;
+}
